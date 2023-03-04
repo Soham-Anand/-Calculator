@@ -1,0 +1,7 @@
+To use the calculator,
+First run "C++.exe"
+Second type number [a] and [b] For example, 20 is number [a] and 30 is number [b]
+Third add a opponent between the number [a] and [b] for example, + [op]
+Fouth it will look like this [20+30]
+Fifth Finally press "enter"
+Result will be 50 [r]
